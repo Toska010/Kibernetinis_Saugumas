@@ -1,0 +1,19 @@
+Privalomi sertifikatai
+(1) Training Institute: Library | Training Institute (NSE1) https://training.fortinet.com/local/library/?category=Certification%3ANSE_1
+(2) Training Institute: Library | Training Institute (NSE2) https://training.fortinet.com/local/library/?category=Certification%3ANSE_2
+(3) Training Institute: Library | Training Institute (NSE3) https://training.fortinet.com/local/library/?category=Certification%3ANSE_3
+(4) KHD2026 | Mokymai Kibernetinė higiena darbe https://mokymai.nksc.lt/enrol/index.php?id=42
+(5) DI2026 | Mokymai Saugus dirbtinio intelekto naudojimas https://mokymai.nksc.lt/enrol/index.php?id=52
+Training Institute: Library | Training Institute
+ 
+Fortinet sertifikacija
+brochure-nse-training.pdf https://www.fortinet.com/content/dam/fortinet/assets/brochures/brochure-nse-training.pdf
+Training Institute: Library | Training Institute https://training.fortinet.com/local/library/?category=Certification%3ANSE_1
+
+Rekomenduojami kursai
+CISO2026 | Mokymai Informacijos saugumo vadovo kursas https://mokymai.nksc.lt/enrol/index.php?id=50
+SOC2026 | Mokymai Saugumo operacijų centro analitiko kursas https://mokymai.nksc.lt/enrol/index.php?id=51
+KIT2024 | Mokymai Įvadas į kibernetinių incidentų tyrimus https://mokymai.nksc.lt/enrol/index.php?id=15
+Web Security Academy: Free Online Training from PortSwigger (WEB sauga) https://portswigger.net/web-security
+(Kompiuterinio tinklo pagrindai) https://training.fortinet.com/local/staticpage/view.php?page=library_fortinet-networking-fundamentals
+ 
