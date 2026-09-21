@@ -1,0 +1,20 @@
+OSINT (Open-Source INTelligence) karkasas 
+https://osintframework.com/ 
+
+https://intelx.io/ 
+
+Shodan Search Engine 
+
+Google Dorking 
+https://github.com/chr3st5an/Google-Dorking 
+
+Wayback Marchine 
+https://web.archive.org/ 
+
+Google Images 
+https://images.google.com/ 
+
+TinEye 
+https://tineye.com/ 
+
+https://haveibeenpwned.com/ 
